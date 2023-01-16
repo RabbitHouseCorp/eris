@@ -57,5 +57,6 @@ export const {
   VoiceConnection,
   VoiceConnectionManager,
   VoiceState,
-  AutoComplete
+  AutoComplete,
+  Interaction
 } = Eris;
